@@ -1,7 +1,7 @@
-# Networx
+# Networx - Video Game Website
 Admin Login:
-U: admin@test.com
-P: 123qwe
+Username: admin@test.com
+Password: 123qwe
 
 There are two options for setting up the database that this website depends on.
 1. 
