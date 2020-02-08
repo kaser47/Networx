@@ -1,4 +1,6 @@
 # Networx - Video Game Website
+This website was created in Visual Studio 2019 using .Net Core 2.2
+
 Admin Login:
 Username: admin@test.com
 Password: 123qwe
