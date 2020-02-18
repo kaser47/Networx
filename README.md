@@ -1,6 +1,8 @@
 # Networx - Video Game Website
 This website was created in Visual Studio 2019 using .Net Core 2.2
 
+Objective: Create an ASP.NET MVC Website that displays a list of video games and enables CRUD operations, it also needs some form of authentication.
+
 Admin Login:
 Username: admin@test.com
 Password: 123qwe
